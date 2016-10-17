@@ -1,0 +1,458 @@
+body, html, main {
+    height: 100%;
+    margin: 0;
+}
+
+body {}
+
+.fon {
+    background-size: 100% 100%;
+}
+
+.fon.photo-1 {
+    background-image: url("/login1.jpg");
+    background-attachment: fixed;
+    min-height: 432.5%;
+}
+
+.title-1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250%;
+    position: absolute;
+    left: 32.5%;
+    top: 10%;
+    color: white;
+}
+
+.img {
+    position: absolute;
+    left: 42.5%;
+    top: 110%;
+}
+
+.title {
+    position: absolute;
+    top: -30%;
+    left: 15%;
+    color: white;
+}
+
+.roma {}
+
+.text-1 {
+    color: white;
+    position: absolute;
+    left: 15.5%;
+}
+
+.text-2 {
+    position: absolute;
+    top: 120%;
+    left: -65%;
+    right: -80%;
+    color: white;
+}
+
+.mykola {
+    position: absolute;
+    top: 160%;
+    left: -2%;
+}
+
+.text-3 {
+    position: absolute;
+    top: 260%;
+    left: 3%;
+    color: white;
+}
+
+.text-4 {
+    position: absolute;
+    top: 280%;
+    left: -65%;
+    right: -80%;
+    color: white;
+}
+
+.daniel {
+    position: absolute;
+    top: 340%;
+    left: -2%;
+}
+
+.text-5 {
+    position: absolute;
+    top: 440%;
+    left: 13%;
+    color: white;
+}
+
+.text-6 {
+    position: absolute;
+    top: 460%;
+    left: -65%;
+    right: -80%;
+    color: white
+}
+
+.sviatoslav {
+    position: absolute;
+    top: 500%;
+    left: -2%;
+}
+
+.text-7 {
+    position: absolute;
+    top: 625%;
+    left: 2.5%;
+    right: -30%;
+    color: white
+}
+
+.text-8 {
+    position: absolute;
+    top: 650%;
+    left: -65%;
+    right: -80%;
+    color: white
+}
+
+.site {
+    position: absolute;
+    top: 340%;
+    left:42.5%;
+    color: white;
+}
+.text-site{
+  position: absolute;
+  left: -200%;
+  right:-200%;
+}
+
+.footer {}
+
+.twiter {
+    position: absolute;
+    top: 395%;
+    left: 5%;
+}
+
+.twitter-1 {
+    position: absolute;
+    top: 395%;
+    left: 10%;
+}
+
+.facebook {
+    position: absolute;
+    top: 405%;
+    left: 5%;
+}
+
+.facebook-1 {
+    position: absolute;
+    top: 405%;
+    left: 10%;
+}
+
+.vk {
+    position: absolute;
+    top: 415%;
+    left: 5%;
+}
+
+.vk-1 {
+    position: absolute;
+    top: 415%;
+    left: 10%;
+}
+
+.footer-1 {
+    position: absolute;
+    top: 380%;
+    left: 45%;
+    color: white;
+}
+
+.gmail-logo {
+    position: absolute;
+    top: 395%;
+    left: 65%;
+}
+
+.gmail {
+    position: absolute;
+    top: 397.5%;
+    left: 70%;
+    color: white;
+}
+
+.gmail-1 {
+    position: absolute;
+    top: 392.5%;
+    left: 70%;
+    color: white;
+}
+
+.steemit {
+    position: absolute;
+    top: 405%;
+    left: 65%;
+}
+
+.steemit-1 {
+    position: absolute;
+    top: -5%;
+    left: 145%;
+}
+
+footer {
+    position: absolute;
+    top: 422.5%;
+    left: 70%;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.login {
+    position: absolute;
+    top: 37%;
+    left: 44.5%;
+}
+
+.or {
+    position: absolute;
+    top: 61.5%;
+    left: 49%;
+}
+
+.sign {
+    position: absolute;
+    top: 61.5%;
+    left: 50.5%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+@media screen and (min-width:480px) and (max-width:980px) {
+    body, html, main {
+        height: 100%;
+        margin: 0;
+    }
+    body {}
+    .fon {
+        background-size: 100% 100%;
+    }
+    .fon.photo-1 {
+        background-image: url("/login1.jpg");
+        background-attachment: fixed;
+        min-height: 315%;
+    }
+    .title-1 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 200%;
+        position: absolute;
+        left: 20%;
+        top: 10%;
+        color: white;
+    }
+    .img {
+        position: absolute;
+        left: 35%;
+        top: 110%;
+    }
+    .title {
+        position: absolute;
+        top: -40%;
+        left: 13%;
+        color: white;
+    }
+    .roma {}
+    .text-1 {
+        color: white;
+        position: absolute;
+        left: 10.5%;
+        right: -1%;
+    }
+    .text-2 {
+        position: absolute;
+        top: 120%;
+        left: -45%;
+        right: -60%;
+        color: white;
+    }
+    .mykola {
+        position: absolute;
+        top: 170%;
+        left: -2%;
+    }
+    .text-3 {
+        position: absolute;
+        top: 270%;
+        left: 3%;
+        color: white;
+    }
+    .text-4 {
+        position: absolute;
+        top: 290%;
+        left: -45%;
+        right: -60%;
+        color: white;
+    }
+    .daniel {
+        position: absolute;
+        top: 340%;
+        left: -2%;
+    }
+    .text-5 {
+        position: absolute;
+        top: 440%;
+        left: 13%;
+        color: white;
+    }
+    .text-6 {
+        position: absolute;
+        top: 460%;
+        left: -45%;
+        right: -60%;
+        color: white
+    }
+    .sviatoslav {
+        position: absolute;
+        top: 500%;
+        left: -2%;
+    }
+    .text-7 {
+        position: absolute;
+        top: 615%;
+        left: 2.5%;
+        right: -30%;
+        color: white
+    }
+    .text-8 {
+        position: absolute;
+        top: 650%;
+        left: -45%;
+        right: -60%;
+        color: white
+    }
+    .site {
+        position: absolute;
+        top: 240%;
+        left:35%;
+        color: white;
+    }
+    .text-site{
+      position: absolute;
+      left: -60%;
+      right:-40%;
+    }
+    .footer {}
+    .twiter {
+        position: absolute;
+        top: 275%;
+        left: 5%;
+    }
+    .twitter-1 {
+        position: absolute;
+        top: 275%;
+        left: 20%;
+    }
+    .facebook {
+        position: absolute;
+        top: 280%;
+        left: 5%;
+    }
+    .facebook-1 {
+        position: absolute;
+        top: 280%;
+        left: 20%;
+    }
+    .vk {
+        position: absolute;
+        top: 285%;
+        left: 5%;
+    }
+    .vk-1 {
+        position: absolute;
+        top: 285%;
+        left: 20%;
+    }
+    .footer-1 {
+        position: absolute;
+        top: 265%;
+        left: 42.5%;
+        color: white;
+    }
+    .gmail-logo {
+        position: absolute;
+        top: 290%;
+        left: 5%;
+    }
+    .gmail {
+        position: absolute;
+        top: 291%;
+        left: 20%;
+        color: white;
+    }
+    .gmail-1 {
+        position: absolute;
+        top: 289%;
+        left: 20%;
+        color: white;
+    }
+    .steemit {
+        position: absolute;
+        top: 297%;
+        left: 5%;
+    }
+    .steemit-1 {
+        position: absolute;
+        top: -5%;
+        left: 192.5%;
+    }
+    footer {
+        position: absolute;
+        top: 305%;
+        left: 55%;
+        color: white;
+    }
+    p {
+        color: white;
+    }
+    img {
+        border-radius: 50%;
+    }
+    .login {
+        position: absolute;
+        top: 37%;
+        left: 35.5%;
+        font-size: 250%;
+    }
+    .or {
+        position: absolute;
+        top: 69%;
+        left: 45.5%;
+        font-size: 250%;
+    }
+    .sign {
+        position: absolute;
+        top: 72.3%;
+        left: 54%;
+    }
+    a {
+        color: white;
+        text-decoration: none;
+    }
+}
